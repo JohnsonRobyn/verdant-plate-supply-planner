@@ -93,7 +93,7 @@ are taken only from the dataset, never invented.
 
 ## Demo video
 
-A 5-minute walkthrough of the agent in action is available here: _(link to be added once the video is uploaded to YouTube or Vimeo)_.
+A 5-minute walkthrough of the agent in action is available here: https://youtu.be/eDHl0unsCGU 
 
 ---
 
