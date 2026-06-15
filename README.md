@@ -54,7 +54,7 @@ See `architecture.png` for the diagram.
 This agent uses **Work IQ**, the intelligence layer behind Microsoft 365 Copilot, to
 bring in work context (supplier communications and planning notes) alongside the
 structured dataset. Work IQ provides context and priority signals; all numeric values
-are taken only from the dataset, never invented. See agent-configuration.png for the 
+are taken only from the dataset, never invented. See `agent-configuration.png` for the 
 agent setup, showing Work IQ enabled as the intelligence layer, the three grounded 
 knowledge sources, web search disabled, and the Microsoft Planner connector.
 
@@ -82,7 +82,7 @@ knowledge sources, web search disabled, and the Microsoft Planner connector.
 - `VerdantPlate_Cover.png`, project cover image
 - `agent-response.png`, sample agent response (the weekly risk summary)
 - `planner-task.png`, the task the agent created in Microsoft Planner
-- `agent-configuration.png, the agent setup showing Work IQ enabled, knowledge sources, web search off, and the Planner connector
+- `agent-configuration.png`, the agent setup showing Work IQ enabled, knowledge sources, web search off, and the Planner connector
 
 ## How to reproduce
 
