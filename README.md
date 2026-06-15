@@ -96,7 +96,7 @@ knowledge sources, web search disabled, and the Microsoft Planner connector.
 
 ## Demo video
 
-A 5-minute walkthrough of the agent in action is available here: https://youtu.be/eDHl0unsCGU 
+A 5-minute walkthrough of the agent in action is available here: https://youtu.be/MgD99NuyH-w
 
 ---
 
